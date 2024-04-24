@@ -114,7 +114,7 @@ pip install tensorboard
 ### 5. AttributeError: module 'distutils' has no attribute 'version'
 
 ```
-pip install setuptools=59.5.0
+pip install setuptools==59.5.0
 ```
 
 # 4. walk-these-ways
